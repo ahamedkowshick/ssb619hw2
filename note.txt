@@ -1,0 +1,78 @@
+html meaning
+hypertext markup lamnguage
+content -text, image, audio, video,
+
+how it works
+html version
+
+
+project file
+.html
+index
+
+html template -code
+tag, element, attribute
+
+
+
+Note of SSB-619
+
+Create root directory
+Create images folder(picture, icon, media) 
+Create js folder  (java Script)
+Create css folder(2, 3,4 all under root directory)
+
+Tag = no ending
+element= start and end both are exist
+attribute=tag  er modde dictionary kisu dewar jonno amra attribute liki. I.e lang="en"
+<meta charset=”UTF-8” > –means support all language support in webpage
+<meta name="viewport" content="width=device-width, intial-scale=1.0"> content [meta name -This tag must be use for all project also this is support webpage in responsive] 
+
+what is responsive: it means support all device namely, mobile, desktop, apple, etc.
+
+
+
+<!doctype.html> –called for html5
+
+H.W submit through Github
+
+Loren ipsum is free content -ues paragraph from this page
+Image =tag
+Attribute= src, alt [attribute always from starting tag]
+src=”value”
+File path
+CDN=content delivery network(https://images.pexels.com/photos/598917/pexels-photo-598917.jpeg?)
+Use images for copyright free images site
+
+1000px =px mean pixel
+w3c=world wide web consortium(w3c is a organization and they are  maintaining web standard such as coding convention )
+Weight
+Height
+
+Website for images: freeimages, pixels, pixabay, unsplash
+
+21.04.2024
+==============
+
+alt-img-info
+-error
+-access availability
+-seo support
+
+link -
+ internal
+ external
+ <a> anchor tag</a>
+ (HW-visit:daraz, shwapno,evally, daily star,)
+ target="" [blank means self target] it means open link with current window
+ traget="_blank_" then link will be open in seperate window tabs
+ ../index.html -- backward connect
+ pages/about.html -- forward connect
+
+ w3school.com -documentation
+ https://www.w3schools.com/tags/default.asp
+
+ Note:HTML tag h.w for next class  and submited to github and shared the same
+
+ 3 ta ecommerce 
+2 ta newsportal site visit
